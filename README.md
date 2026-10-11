@@ -91,11 +91,11 @@ Copy `.env.example` to `.env` and provide your keys:
 VITE_GOOGLE_MAPS_API_KEY="YOUR_GOOGLE_MAPS_API_KEY"
 
 # AWS Serverless Configuration
-VITE_AWS_REGION="us-west-2"
-VITE_AWS_COGNITO_USER_POOL_ID="us-west-2_VerdiLoopPool"
-VITE_AWS_COGNITO_CLIENT_ID="verdiloop-cognito-web-client"
-VITE_AWS_APPSYNC_GRAPHQL_ENDPOINT="https://example.appsync-api.us-west-2.amazonaws.com/graphql"
-VITE_AWS_DYNAMODB_TABLE_PREFIX="VerdiLoop_Prod_"
+VITE_AWS_REGION="ADD REGOIN"
+VITE_AWS_COGNITO_USER_POOL_ID="ADD AWS_COGNITO_USER_POOL_ID"
+VITE_AWS_COGNITO_CLIENT_ID="ADD AWS_COGNITO_CLIENT_ID"
+VITE_AWS_APPSYNC_GRAPHQL_ENDPOINT="https://example."
+VITE_AWS_DYNAMODB_TABLE_PREFIX="ADD AWS_DYNAMODB_TABLE_PREFIX"
 ```
 
 ### 3. Run the Development Server
