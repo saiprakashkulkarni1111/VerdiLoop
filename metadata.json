@@ -1,0 +1,6 @@
+{
+  "name": "VerdiLoop — Urban Circularity, Clean Energy & Active Transit",
+  "description": "Close the loop on urban waste, clean energy, and sustainable commuting with real-time Google Maps Supercluster geospatial tracking, municipal route verification, and gamified carbon rewards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
